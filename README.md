@@ -1,11 +1,9 @@
 # harvestfi.github.io
 Community resources for Harvest Finance.
 
-Harvest Community Wiki
-- https://farm.chainwiki.dev
+Harvest Community Wiki: [farm.chainwiki.dev](https://farm.chainwiki.dev)
 
-View your Harvest farming pools and harvest all assets:
-- https://harvestfi.github.io/dashboard
+Track and harvest all FARM from your pools: [harvestfi.github.io/dashboard](https://harvestfi.github.io/dashboard)
 
 Add Harvest assets to your Metamask wallet:
 - [FARM](/add-farm)
